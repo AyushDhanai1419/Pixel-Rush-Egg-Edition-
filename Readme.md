@@ -82,7 +82,7 @@ Stomp frying pans into omelets, dodge deadly fire enemies, collect coins, and cl
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/YOUR\_USERNAME/grandpa-egg.git
+&nbsp;  git clone https://github.com/AyushDhanai1419/Pixel-Rush-Egg-Edition-.git
 
 &nbsp;  cd grandpa-egg
 
